@@ -1,24 +1,24 @@
-﻿# NueScript Programming Language
+﻿# NueScript3 Programming Language
 ## Summary
 
-🛠️🌟 **NueScript** is a superset of AeroScript.
+🛠️🌟 **NueScript** was a superset of AeroScript.
+🛠️🌟 **NueScript3** is the modified version of NueScript.
+
 
 ✨ **Features**:
-- All features present in AeroScript.
-- A thing like pip. `Under Developement`.
+- All features present in AeroScript && NueScript2.
 
 ## New Update
 
 * Currently adding features.
-* Started makeing a system like python's `pip` and rust's `cargo`.
 * Adding more libs on `pip server for Nue`.
 * Fixed known bugs.
 
 ## Credits
 
-- **myself**:
+- **Yuri-DaBang**:
   - This project is based on my [AeroScript](https://github.com/Yuri-DaBang/AeroScript-v2-Stable) project.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. <LOL>

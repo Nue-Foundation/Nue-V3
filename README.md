@@ -12,13 +12,12 @@ Nue is an innovative, interpreted programming language designed to address the c
   `result = linq.from(mm).where(x => x % 2 == 0).select(x => x + 2).toSlice()`
 
 - 🌐 Built-in web service creation
-  `// (Placeholder for web service example)`
+  `service DEMO on "127.0.0.1:1234:debug" { ... }`
 
 - 🧠 Intuitive and expressive syntax
   `let z = (x,y) => x * y + 5`
 
 - 🛠️ Versatile for both backend and data processing tasks
-  `// (Placeholder for versatile task example)`
 
 - 🔢 Support for regular expressions
   `if "abc 123	mnj" =~ ``\d+\t`` { println("matched") }`
